@@ -1,4 +1,4 @@
-package com.technica_studio.spring_service;
+package com.technicastudio.springservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
